@@ -8,7 +8,7 @@ def print_each_number():
     # ...etc
     # TODO - Write your code below this line.  (Keep the indentation)
     for i in nums:
-            print(i)
+        print(i)
 
     
 
